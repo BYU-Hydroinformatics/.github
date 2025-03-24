@@ -2,9 +2,6 @@
 
 ## App portals
 - https://apps.geoglows.org
-- https://tethys.byu.edu
-- https://tethys-staging.byu.edu
-- http://servir-amazonia.eastus.cloudapp.azure.com
 
 ## Repository Quick Reference
 
